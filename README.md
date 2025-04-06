@@ -1,8 +1,8 @@
-# Edpal
+# Ed-pal
 
 A Flutter Firebase based full stack Project for Android and ios.
 
-## Edpal Screens
+## Ed-pal Screens
 
 | ![Login Screen](https://github.com/user-attachments/assets/f50bc316-0fc5-4a83-95b3-3d10b96377f0) | ![Home Screen](https://github.com/user-attachments/assets/49ba8e26-d3d8-4592-9869-2ed0ccc937f8) | ![Community Screen](https://github.com/user-attachments/assets/196de050-63d9-4213-b9ab-f7653f16d4d6) | ![Study Material Screen](https://github.com/user-attachments/assets/576b8ea0-5a57-4f0c-8648-95e5141f1a88) |
 |:--:|:--:|:--:|:--:|
@@ -13,7 +13,7 @@ A Flutter Firebase based full stack Project for Android and ios.
 
 ## About the Project
 
-**Edpal** is an innovative application designed to connect students, schools, and communities to facilitate seamless sharing of study materials, knowledge, and educational resources. The app aims to enhance the learning experience by increasing student engagement and reducing study material costs through a collaborative platform.
+**Ed-pal** is an innovative application designed to connect students, schools, and communities to facilitate seamless sharing of study materials, knowledge, and educational resources. The app aims to enhance the learning experience by increasing student engagement and reducing study material costs through a collaborative platform.
 
 ### Key Features:
 
@@ -32,11 +32,11 @@ A Flutter Firebase based full stack Project for Android and ios.
 
 ## About EDPAL
 
-**EDPAL** is one of the world’s largest communities for students across all grades, subjects, and geographical locations. It is designed to provide students with a platform to connect with peers who share similar educational backgrounds, access a wealth of subject-related information, receive career guidance, and find resources that help them learn more and grow further.
+**ED-PAL** is one of the world’s largest communities for students across all grades, subjects, and geographical locations. It is designed to provide students with a platform to connect with peers who share similar educational backgrounds, access a wealth of subject-related information, receive career guidance, and find resources that help them learn more and grow further.
 
-### Why EDPAL?
+### Why ED-PAL?
 
-In every corner of society, there are students who may not know each other but should be connected. While existing platforms focus on connecting teachers and students, there is a gap for a student-centric platform where the presence of teachers is optional. **EDPAL** fills this gap by allowing students to:
+In every corner of society, there are students who may not know each other but should be connected. While existing platforms focus on connecting teachers and students, there is a gap for a student-centric platform where the presence of teachers is optional. **ED-PAL** fills this gap by allowing students to:
 
 - Share knowledge and educational materials.
 - Post and access new educational content, courses, and school-related activities.
