@@ -30,7 +30,7 @@ A Flutter Firebase based full stack Project for Android and ios.
 - **Backend Services**: Integrated **Firebase** for real-time database management, authentication, and cloud storage, ensuring secure data handling and efficient performance.
 - **Push Notifications**: Implemented using **Firebase Cloud Messaging (FCM)** to keep users engaged and updated.
 
-## About EDPAL
+## About ED-PAL
 
 **ED-PAL** is one of the world’s largest communities for students across all grades, subjects, and geographical locations. It is designed to provide students with a platform to connect with peers who share similar educational backgrounds, access a wealth of subject-related information, receive career guidance, and find resources that help them learn more and grow further.
 
