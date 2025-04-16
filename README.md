@@ -62,6 +62,10 @@ Schools that onboard with EDPAL gain several advantages:
 
 Most of these features are available to students and schools at no extra cost, making EDPAL a valuable and accessible educational platform.
 
+### App Video Link- [Click here to watch the demo video](https://drive.google.com/file/d/1Si0bZtrnrGSNUQyk5MuveU5UHYM9BjdC/view?usp=sharing)
+
+> Note: I’ve added this Google Drive video link because the original YouTube video was deleted by YouTube due to some technical misconception.
+
 
 
 ## Summary
